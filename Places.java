@@ -352,7 +352,7 @@ public class places {
     }
 
     public void setName(String name) {
-        mNane = name;
+        mName = name;
     }
 
     public String getLocationCity() {
