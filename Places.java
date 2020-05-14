@@ -352,7 +352,7 @@ public class places {
     }
 
     public void setName(String name) {
-        mTitle = title;
+        mNane = name;
     }
 
     public String getLocationCity() {
@@ -360,7 +360,7 @@ public class places {
     }
 
     public void setLocationCity(String locationCity) {
-        mPersonage = locationCity;
+        mLocationCity = locationCity;
     }
 
     public int getScore() {
