@@ -334,7 +334,7 @@ public class places {
 
     public places (@Nullable String title, String LocationCity, int score, String creationDate) {
         mName = Name;
-        mLocationCity = LocationCity;
+        mLocationCity = locationCity;
         mScore = score;
         mCreationDate = creationDate;
     }
